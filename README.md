@@ -25,9 +25,16 @@ e) class FuncionMetNumericos
 EJEMPLOS:
 
 trapecio x sin (x) a=0 b=1 n=1 h =1 sumatoria de la integral= 0.420735
+
 tapecio  3/(4-x)  a=0 b=2 n=4  sumatoria de la integral=2.09108
+
 trapecio  1/(sqrt (x^(2)-4))   a=3  b=5  n=8 sumatoria de la integral=0.6038
+
 trapecio  x^(3)/(1+x^(1/2))  a=1 b=2 n=1  sumatoria de la integral=1.906854
+
 simpson  3/(4-x)  a=0 b=2 n=6    sumatoria de la integral =1.80684
+
 simpson= x^(3)/(1+x^(1/2))  a=1 b=2 n=2  sumatoria de la integral=1.646970
+
 simpson  (x^(2)+8)^(1/3)   a=1   b=2.5    sumatoria de la integral=3.3543
+
